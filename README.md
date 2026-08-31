@@ -382,4 +382,8 @@ software engineer
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/SweetyJha-06/leetcode/tree/master/1510-stone-game-iv) |
+## Linked List
+|  |
+| ------- |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/SweetyJha-06/leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 <!---LeetCode Topics End-->
